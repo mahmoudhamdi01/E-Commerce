@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Web", "Talabat.Web\Talabat.Web.csproj", "{59B0F286-5A01-4C74-B5F3-90F64C3011F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{DAC6608B-1246-428E-986D-DA18F72CFC54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersistanceLayer", "PersistanceLayer\PersistanceLayer.csproj", "{3A343159-E3EB-470D-809B-B09FF8C7B074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresentationLayer", "PresentationLayer\PresentationLayer.csproj", "{FEB4C55A-5D0F-4350-B237-FAB5785DB50D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLayer", "ServiceLayer\ServiceLayer.csproj", "{9D15EF6A-0401-40C6-8480-59F5DF4F9D8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceAbstractionLayer", "ServiceAbstractionLayer\ServiceAbstractionLayer.csproj", "{BCC86C3B-E0FF-4005-9B2D-FC243086A119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLayer", "SharedLayer\SharedLayer.csproj", "{7AD3DAA0-CE2D-4EFF-9BC7-C71DD1B6F034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B0F286-5A01-4C74-B5F3-90F64C3011F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B0F286-5A01-4C74-B5F3-90F64C3011F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B0F286-5A01-4C74-B5F3-90F64C3011F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B0F286-5A01-4C74-B5F3-90F64C3011F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC6608B-1246-428E-986D-DA18F72CFC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC6608B-1246-428E-986D-DA18F72CFC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC6608B-1246-428E-986D-DA18F72CFC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC6608B-1246-428E-986D-DA18F72CFC54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A343159-E3EB-470D-809B-B09FF8C7B074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A343159-E3EB-470D-809B-B09FF8C7B074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A343159-E3EB-470D-809B-B09FF8C7B074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A343159-E3EB-470D-809B-B09FF8C7B074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB4C55A-5D0F-4350-B237-FAB5785DB50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB4C55A-5D0F-4350-B237-FAB5785DB50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB4C55A-5D0F-4350-B237-FAB5785DB50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB4C55A-5D0F-4350-B237-FAB5785DB50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D15EF6A-0401-40C6-8480-59F5DF4F9D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D15EF6A-0401-40C6-8480-59F5DF4F9D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D15EF6A-0401-40C6-8480-59F5DF4F9D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D15EF6A-0401-40C6-8480-59F5DF4F9D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC86C3B-E0FF-4005-9B2D-FC243086A119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC86C3B-E0FF-4005-9B2D-FC243086A119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC86C3B-E0FF-4005-9B2D-FC243086A119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC86C3B-E0FF-4005-9B2D-FC243086A119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AD3DAA0-CE2D-4EFF-9BC7-C71DD1B6F034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD3DAA0-CE2D-4EFF-9BC7-C71DD1B6F034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD3DAA0-CE2D-4EFF-9BC7-C71DD1B6F034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD3DAA0-CE2D-4EFF-9BC7-C71DD1B6F034}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA644B7E-6C75-45C7-9474-B64ABF59FE6F}
+	EndGlobalSection
+EndGlobal
