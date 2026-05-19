@@ -1,0 +1,182 @@
+[
+  {
+    "TitleEnglish": "Italian Chicken Marinade",
+    "TitleArabic": "تتبيلة الدجاج الإيطالية",
+    "DescriptionEn": "This Italian dressing chicken marinade is a super simple but delicious way to add flavor before grilling.",
+    "DescriptionAr": "تتبيلة الدجاج هذه بالصلصة الإيطالية هي طريقة بسيطة جدًا ولكن لذيذة لإضافة نكهة قبل الشوي.",
+    "Price": 200,
+    "PictureUrl": "images/products/ItalianChickenMarinade.png",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "TitleEnglish": "Chicken Marsala",
+    "TitleArabic": "دجاج مارسالا",
+    "DescriptionEn": "Chicken Marsala is an Italian-style recipe for tender pan-fried chicken breasts in a sweet Marsala wine and mushroom sauce. It's super quick and easy to make for a weeknight dinner AND sophisticated enough for company.",
+    "DescriptionAr": "تشيكن مارسالا هي وصفة على الطريقة الإيطالية لصدور دجاج طرية مقلية في المقلاة مع صلصة حلوة من نبيذ المارسالا والفطر. إنها سريعة جدًا وسهلة التحضير لعشاء خلال أيام الأسبوع، وفي الوقت نفسه راقية بما يكفي لتقديمها للضيوف.",
+    "Price": 150,
+    "PictureUrl": "images/products/ChickenMarsala.png",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "TitleEnglish": "Hearty Vegetable Lasagna",
+    "TitleArabic": "لازانيا الخضار الغنية",
+    "DescriptionEn": "This hearty, vegetable lasagna is the only lasagna my husband will eat. We love it! Hope you all enjoy it as much as we do.",
+    "DescriptionAr": "هذه اللازانيا الغنية بالخضار هي اللازانيا الوحيدة التي يأكلها زوجي. نحن نحبها! أتمنى أن تستمتعوا بها بقدر ما نستمتع نحن بها.",
+    "Price": 180,
+    "PictureUrl": "images/products/HeartyVegetableLasagna.png",
+    "TypeId": 1,
+    "BrandId": 2
+  },
+  {
+    "TitleEnglish": "Cheesy Vegetable Lasagna",
+    "TitleArabic": "لازانيا الخضار بالجبن",
+    "DescriptionEn": "A rich, cheesy lasagna loaded with vegetables. You could also omit all veggies except broccoli for a broccoli lasagna.",
+    "DescriptionAr": "لازانيا غنية ومليئة بالجبن ومحشوة بالخضار. يمكنك أيضًا حذف جميع الخضروات ما عدا البروكلي لتحضير لازانيا بالبروكلي.",
+    "Price": 300,
+    "PictureUrl": "images/products/CheesyVegetableLasagna.png",
+    "TypeId": 1,
+    "BrandId": 2
+  },
+  {
+    "TitleEnglish": "Pasta Salad",
+    "TitleArabic": "سلطة المكرونة",
+    "DescriptionEn": "This pasta salad recipe was given to me by a dear friend many years ago, and I've been making it ever since! It's great for barbecues.",
+    "DescriptionAr": "أعطتني هذه الوصفة لسلطة المكرونة صديقة عزيزة منذ سنوات عديدة، ومنذ ذلك الحين وأنا أعدّها باستمرار! إنها رائعة لحفلات الشواء.",
+    "Price": 250,
+    "PictureUrl": "images/products/PastaSalad.png",
+    "TypeId": 1,
+    "BrandId": 4
+  },
+  {
+    "TitleEnglish": "Italian Wedding Soup",
+    "TitleArabic": "شوربة الزفاف الإيطالية",
+    "DescriptionEn": "This lovely Italian wedding soup recipe combines flavorful meatballs with sliced escarole, orzo pasta, and finely chopped carrot. Serve hot, garnished with fresh parsley and extra Parmesan cheese.",
+    "DescriptionAr": "هذه الوصفة الرائعة لشوربة الزفاف الإيطالية تجمع بين كرات لحم شهية مع شرائح الإسكارول، ومعكرونة الأورزو، والجزر المفروم ناعمًا. تُقدَّم ساخنة ومزيّنة بالبقدونس الطازج وجبن البارميزان الإضافي.",
+    "Price": 120,
+    "PictureUrl": "images/products/ItalianWeddingSoup.png",
+    "TypeId": 1,
+    "BrandId": 5
+  },
+  {
+    "TitleEnglish": "Vegetarian Refried Beans",
+    "TitleArabic": "فاصوليا مهروسة مقلية نباتية",
+    "DescriptionEn": "Traditional vegetarian and vegan refried beans that taste great with hardly any fat!",
+    "DescriptionAr": "فاصوليا مهروسة مقلية نباتية وتقليدية بطعم رائع مع كمية دهون تكاد لا تُذكر!",
+    "Price": 10,
+    "PictureUrl": "images/products/VegetarianRefriedBeans.png",
+    "TypeId": 2,
+    "BrandId": 2
+  },
+  {
+    "TitleEnglish": "Sweet and Spicy Sausage and Pepper Pasta",
+    "TitleArabic": "مكرونة بالنقانق والفلفل الحلو والحار",
+    "DescriptionEn": "This is a fabulous meal prep recipe, and the tomatoes and peppers lend a natural sweetness to juxtapose the spicy sauce and sausage.",
+    "DescriptionAr": "هذه وصفة رائعة لتحضير الوجبات مسبقًا، وتضيف الطماطم والفلفل حلاوة طبيعية تتباين بشكل جميل مع الصلصة الحارة والنقانق.",
+    "Price": 8,
+    "PictureUrl": "images/products/PepperPasta.png",
+    "TypeId": 2,
+    "BrandId": 4
+  },
+  {
+    "TitleEnglish": "Creamy Gochujang Tortellini",
+    "TitleArabic": "تورتيليني كريمي بصلصة الجوتشوجانغ",
+    "DescriptionEn": "The popular miso pasta gets a spicy, yet savory addition of gochujang sauce. Certainly food fusion, and ultimately comfort food!",
+    "DescriptionAr": "تحصل مكرونة الميسو الشهيرة على إضافة حارة ولكن لذيذة من صلصة الجوتشوجانغ. إنها بالتأكيد مزيج مبتكر من النكهات، وفي النهاية أكلة مريحة ومشبعة!",
+    "Price": 15,
+    "PictureUrl": "images/products/CreamyGochujangTortellini.png",
+    "TypeId": 2,
+    "BrandId": 4
+  },
+  {
+    "TitleEnglish": "Shrimp Egg Foo Young",
+    "TitleArabic": "إيغ فو يونغ بالروبيان",
+    "DescriptionEn": "This egg foo young recipe includes a delicious sauce to put on top of the patties. This is a very special recipe acquired when I worked at a Chinese restaurant to pay for my red 1966 VW bug when in high school! The recipe card is tattered and spotted now, but the dish is the best egg foo young I have ever had. To serve, place egg patty over steamed rice and put the sauce on top.",
+    "DescriptionAr": "تتضمن وصفة إيغ فو يونغ هذه صلصة لذيذة تُسكب فوق الأقراص. إنها وصفة مميزة جدًا حصلت عليها عندما كنت أعمل في مطعم صيني لأدفع ثمن سيارتي الحمراء فولكس فاجن بيتل موديل 1966 أثناء المدرسة الثانوية! بطاقة الوصفة أصبحت بالية وملطخة الآن، لكن الطبق لا يزال أفضل إيغ فو يونغ تناولته في حياتي. للتقديم، ضع قرص البيض فوق الأرز المطهو على البخار واسكب الصلصة فوقه.",
+    "Price": 18,
+    "PictureUrl": "images/products/ShrimpEggFooYoung.png",
+    "TypeId": 4,
+    "BrandId": 3
+  },
+  {
+    "TitleEnglish": "Congee",
+    "TitleArabic": "كونجي",
+    "DescriptionEn": "Congee, a Chinese rice porridge, will make any cold winter's day warm and welcoming. This recipe, also known as 'jook', was inspired by my Grandmother's frequent preparation of this dish. You will enjoy congee's unique velvety and savory taste.",
+    "DescriptionAr": "الكونجي، وهو عصيدة أرز صينية، سيجعل أي يوم شتوي بارد أكثر دفئًا وراحة. هذه الوصفة، المعروفة أيضًا باسم 'جوك'، مستوحاة من تحضير جدتي المتكرر لهذا الطبق. ستستمتع بالمذاق الفريد الغني والمالح للكونجي.",
+    "Price": 15,
+    "PictureUrl": "images/products/Congee.png",
+    "TypeId": 4,
+    "BrandId": 3
+  },
+  {
+    "TitleEnglish": "Haluski - Cabbage and Noodles",
+    "TitleArabic": "هالوسكي - الكرنب والنودلز",
+    "DescriptionEn": "This haluski recipe is made with buttery egg noodles, fried cabbage, and onions. It's a great, flavorful dish!",
+    "DescriptionAr": "تُحضَّر وصفة الهالوسكي هذه من نودلز البيض بالزبدة مع الكرنب المقلي والبصل. إنها طبق رائع ومليء بالنكهة!",
+    "Price": 16,
+    "PictureUrl": "images/products/HaluskiNoodles.png",
+    "TypeId": 4,
+    "BrandId": 4
+  },
+  {
+    "TitleEnglish": "Chicken Teriyaki and Noodles",
+    "TitleArabic": "دجاج ترياكي مع النودلز",
+    "DescriptionEn": "Ditch the take out with this quick chicken teriyaki and noodle dish made with homemade teriyaki sauce!",
+    "DescriptionAr": "استغنِ عن الطلبات الجاهزة مع هذا الطبق السريع من دجاج الترياكي والنودلز، المصنوع بصلصة ترياكي منزلية التحضير!",
+    "Price": 14,
+    "PictureUrl": "images/products/ChickenTeriyakiNoodles.png",
+    "TypeId": 4,
+    "BrandId": 4
+  },
+  {
+    "TitleEnglish": "Kulfi",
+    "TitleArabic": "كولفي",
+    "DescriptionEn": "This is a simple but delicious recipe for Kulfi (Indian Ice Cream) that I got from my sister-in-law. I have made this several times, and it always gets rave reviews - even the kids love it! For extra flavor, you could add a few drops of rose water or ground pistachios.",
+    "DescriptionAr": "هذه وصفة بسيطة لكنها لذيذة للكولفي (الآيس كريم الهندي) حصلت عليها من أخت زوجي. لقد أعددتها عدة مرات، وكانت دائمًا تنال إعجاب الجميع، حتى الأطفال يحبونها! ولمزيد من النكهة، يمكنك إضافة بضع قطرات من ماء الورد أو القليل من الفستق المطحون.",
+    "Price": 250,
+    "PictureUrl": "images/products/Kulfi.png",
+    "TypeId": 3,
+    "BrandId": 6
+  },
+  {
+    "TitleEnglish": "Crispy Vegetable Pakoras",
+    "TitleArabic": "باكورا الخضار المقرمشة",
+    "DescriptionEn": "These vegetable pakoras are delicious. You'll love this recipe if you've ever had Japanese tempura-coated veggies. These pakoras are similar, but the spiced batter gives them a unique taste. Serve with chili sauce, mint yogurt sauce, or sweet and sour sauce. Try this recipe with other vegetables, such as sweet potatoes, broccoli, and asparagus.",
+    "DescriptionAr": "باكورا الخضار هذه لذيذة للغاية. ستحب هذه الوصفة إذا كنت قد جرّبت من قبل خضروات التمبورا اليابانية المغطاة بالعجين. هذه الباكورا مشابهة لها، لكن العجين المتبل يمنحها مذاقًا مميزًا. قدّمها مع صلصة الفلفل الحار، أو صلصة الزبادي بالنعناع، أو الصلصة الحلوة والحامضة. جرّب هذه الوصفة مع خضروات أخرى مثل البطاطا الحلوة، والبروكلي، والهليون.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/CrispyVegetablePakoras.png",
+    "TypeId": 3,
+    "BrandId": 2
+  },
+  {
+    "TitleEnglish": "Vegetarian Korma",
+    "TitleArabic": "كورما نباتية",
+    "DescriptionEn": "This vegetable korma recipe is an easy vegetarian curry. It's rich, creamy, mildly spiced, and extremely flavorful. Serve with naan and rice.",
+    "DescriptionAr": "وصفة كورما الخضار هذه هي كاري نباتي سهل التحضير. إنها غنية وكريمية ومتوسطة التوابل ومليئة بالنكهة. تُقدَّم مع خبز النان والأرز.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/VegetarianKorma.png",
+    "TypeId": 3,
+    "BrandId": 2
+  },
+  {
+    "TitleEnglish": "Tandoori Chicken",
+    "TitleArabic": "دجاج تندوري",
+    "DescriptionEn": "Try this authentic tandoori chicken that's marinated in yogurt and spices, then cooked on the grill instead of a clay oven so you can make it at home. Serve with long-grain basmati rice, grilled veggies, roasted corn on the cob, and a cucumber salad.",
+    "DescriptionAr": "جرّب هذا الدجاج التندوري الأصيل المتبّل بالزبادي والتوابل، ثم يُطهى على الشواية بدلًا من الفرن الطيني حتى تتمكن من تحضيره في المنزل. قدّمه مع أرز بسمتي طويل الحبة، وخضروات مشوية، وذرة مشوية، وسلطة خيار.",
+    "Price": 150,
+    "PictureUrl": "images/products/TandooriChicken.png",
+    "TypeId": 3,
+    "BrandId": 1
+  },
+  {
+    "TitleEnglish": "Indian Chicken Tikka Masala",
+    "TitleArabic": "دجاج تيكا ماسالا الهندي",
+    "DescriptionEn": "This Indian chicken tikka masala is an easy but flavorful version of everyone's favorite mild-medium curry! Serve with naan bread and mango chutney. Garnish with additional cilantro leaves.",
+    "DescriptionAr": "دجاج تيكا ماسالا الهندي هذا نسخة سهلة ولكن مليئة بالنكهة من الكاري المفضل لدى الجميع بدرجة حرارة خفيفة إلى متوسطة! يُقدَّم مع خبز النان وتشاتني المانجو، ويُزيّن بأوراق كزبرة إضافية.",
+    "Price": 180,
+    "PictureUrl": "images/products/ChickenTikkaMasala.png",
+    "TypeId": 3,
+    "BrandId": 1
+  }
+]
